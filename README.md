@@ -6,20 +6,20 @@
 <div align="center">
 
 <br>
-<a href="https://github.com/sheelganvir/Web-Dev-Projects"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
-<a href="https://github.com/sheelganvir/Web-Dev-Projects"><img src="https://img.shields.io/badge/Built%20by-developers%20%3C%2F%3E-0059b3"></a>
-<a href="https://github.com/sheelganvir/Web-Dev-Projects"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=yellow"></a>
+<a href="https://github.com/sheelganvir/L2I-Community"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
+<a href="https://github.com/sheelganvir/L2I-Community"><img src="https://img.shields.io/badge/Built%20by-developers%20%3C%2F%3E-0059b3"></a>
+<a href="https://github.com/sheelganvir/L2I-Community"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=yellow"></a>
 <a href="https://github.com/sheelganvir"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?v=103"></a>
-<a href="https://github.com/sheelganvir/Web-Dev-Projects/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?v=103"></a>
+<a href="https://github.com/sheelganvir/L2I-Community/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?v=103"></a>
 <br>
 <br>
-<a href="https://github.com/sheelganvir/Web-Dev-Projects/graphs/contributors"><img src="https://img.shields.io/github/contributors/sheelganvir/Web-Dev-Projects?color=brightgreen"></a>
-<a href="https://github.com/sheelganvir/Web-Dev-Projects/stargazers"><img src="https://img.shields.io/github/stars/sheelganvir/Web-Dev-Projects?color=0059b3"></a>
-<a href="https://github.com/sheelganvir/Web-Dev-Projects/network/members"><img src="https://img.shields.io/github/forks/sheelganvir/Web-Dev-Projects?color=yellow"></a>
-<a href="https://github.com/sheelganvir/Web-Dev-Projects/issues"><img src="https://img.shields.io/github/issues/sheelganvir/Web-Dev-Projects?color=0059b3"></a>
-<a href="https://github.com/sheelganvir/Web-Dev-Projects/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/sheelganvir/Web-Dev-Projects?color=yellow"></a>
-<a href="https://github.com/Ayushparikh-code/Web-dev-mini-projects/pulls"><img src="https://img.shields.io/github/issues-pr/sheelganvir/Web-Dev-Projects?color=brightgreen"></a>
-<a href="https://github.com/Ayushparikh-code/Web-dev-mini-projects/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/sheelganvir/Web-Dev-Projects?color=0059b3"></a> 
+<a href="https://github.com/sheelganvir/L2I-Community/graphs/contributors"><img src="https://img.shields.io/github/contributors/sheelganvir/L2I-Community?color=brightgreen"></a>
+<a href="https://github.com/sheelganvir/L2I-Community/stargazers"><img src="https://img.shields.io/github/stars/sheelganvir/L2I-Community?color=0059b3"></a>
+<a href="https://github.com/sheelganvir/L2I-Community/network/members"><img src="https://img.shields.io/github/forks/sheelganvir/L2I-Community?color=yellow"></a>
+<a href="https://github.com/sheelganvir/L2I-Community/issues"><img src="https://img.shields.io/github/issues/sheelganvir/L2I-Community?color=0059b3"></a>
+<a href="https://github.com/sheelganvir/L2I-Community/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/sheelganvir/L2I-Community?color=yellow"></a>
+<a href="https://github.com/sheelganvir/L2I-Community/pulls"><img src="https://img.shields.io/github/issues-pr/sheelganvir/L2I-Community?color=brightgreen"></a>
+<a href="https://github.com/sheelganvir/L2I-Community/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/sheelganvir/L2I-Community?color=0059b3"></a> 
 
 </div>
 <br>
@@ -84,31 +84,29 @@ git clone https://github.com/sheelganvir/L2I-Community
 ```terminal
 cd L2I-Community
 ```
-
-**4.**  MAKE A NEW FOLDER WITH YOUR PROJECT NAME INSIDE Web-Dev-Projects & Add your project files  inside that folder
  
 <br>
 
-**6.** Create a new branch.
+**4.** Create a new branch.
 
 ```terminal
 git checkout -b <your_branch_name>
 ```
 
-**7.** Add & Commit your changes.
+**5.** Add & Commit your changes.
 
 ```terminal
   git add .
   git commit -m "<your_commit_message>"
 ```
 
-**7.** Push your local branch to the remote repository.
+**6.** Push your local branch to the remote repository.
 
 ```terminal
 git push -u origin <your_branch_name>
 ```
 
-**8.** Create a Pull Request!
+**7.** Create a Pull Request!
 
 **Congratulations!** Sit and relax till we review your PR, you've made your contribution to (https://github.com/sheelganvir/L2I-Community) project
 
