@@ -1,7 +1,8 @@
-
 <h1 align="center">L2I Community Sheet</h1> 
-![L2I_logo](https://github.com/sheelganvir/L2I-Community/assets/128175450/46b3f2bb-3a6e-4d2b-890f-6d4a079cd2c9)
-
+<div align="center">
+  
+![L2I_logo (3)](https://github.com/sheelganvir/L2I-Community/assets/128175450/8e0fe7ea-8fe7-474e-80de-b21c92daec9c)
+</div>
 <div align="center">
 
 <br>
@@ -27,18 +28,76 @@
  This Repository is based on L2I Community Sheet solved by our community (sometimes with help from different resources :p) for Interview preparation. 
  All solutions are coded in C++/Java/Python languages.
 
-
 </div>
 <br>
 
-* Day 1 (Array and Sortings)
+* ### Day 1 (Array and Sortings)
     * [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)
     * [Remove duplicates from Sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
     * [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
     * [Sort Colors](https://leetcode.com/problems/sort-colors/description/)
     * [Next Permutation](https://leetcode.com/problems/next-permutation/description/)
 
-* Day 2 (Array and Sortings)
+* ### Day 2 (Array and Sortings)
+
+
+
+
+
+## HOW TO CONTRIBUTE ? 👷 
+
+**1.** Fork [this](https://github.com/sheelganvir/L2I-Community) repository.
+
+**2.** Clone the forked repository.
+
+```terminal
+git clone https://github.com/sheelganvir/L2I-Community
+```
+
+**3.** Navigate to the project directory.
+
+```terminal
+cd L2I-Community
+```
+
+**4.**  MAKE A NEW FOLDER WITH YOUR PROJECT NAME INSIDE Web-Dev-Projects & Add your project files  inside that folder
+ 
+<br>
+
+**6.** Create a new branch.
+
+```terminal
+git checkout -b <your_branch_name>
+```
+
+**7.** Add & Commit your changes.
+
+```terminal
+  git add .
+  git commit -m "<your_commit_message>"
+```
+
+**7.** Push your local branch to the remote repository.
+
+```terminal
+git push -u origin <your_branch_name>
+```
+
+**8.** Create a Pull Request!
+
+**Congratulations!** Sit and relax till we review your PR, you've made your contribution to (https://github.com/sheelganvir/L2I-Community) project
+
+<br>
+
+ ## Our valuable Contributors👩‍💻👨‍💻 :
+
+<a href="https://github.com/sheelganvir/L2I-Community/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=sheelganvir/L2I-Community" />
+</a>
+
+
+ <br>
+ <br>
 
 
  
