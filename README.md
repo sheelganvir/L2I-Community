@@ -40,9 +40,34 @@
 
 * ### Day 2 (Array and Sortings)
 
+<br>
+<br>
 
+## Rules To Contribute To This Repo
 
+- You can write solutions in C/C++/Java/Python for Data Structure and Algorithms.
+- Follow the file naming convention for all your pull requests.
+- While adding any content it should be inside its appropriate directory
+- if there is any problem with an inaccurate solution create an issue!
+- Let's suppose if someone wants to contribute for day 1, question_name, in java language e.g. Day 1 -> question_name -> scroll down to Java -> commit changes
 
+## Things you can contribute to
+
+- Repo contains folders of all the data structures and algorithms topics with some pre-addressed questions. You can **add a solution** to a question ( present in the readme of the particular topic folder) that is unanswered in any language.
+- you can **add new solution** with a better one ( better complexity).
+- Participants can add new solutions in any language.
+- **solve issues** raised by other people or yourself.
+- **Well-documented** source code with detailed explanations provides a valuable resource for educators and students alike.
+
+## Steps For Contribution
+
+    1. Fork this repo
+    2. Star this repo
+    3. Add a file ( txt/cpp ) inside appropriate folder
+    4. commit the code
+    5. Make pull request
+
+---
 
 ## HOW TO CONTRIBUTE ? 👷 
 
