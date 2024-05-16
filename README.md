@@ -81,7 +81,7 @@
 **2.** Clone the forked repository.
 
 ```terminal
-git clone https://github.com/sheelganvir/L2I-Community
+git clone https://github.com/<your-github-username>/L2I-Community
 ```
 
 **3.** Navigate to the project directory.
