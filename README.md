@@ -1,4 +1,4 @@
-<h1 align="center">L2I Community Sheet</h1> 
+<h1 align="center">L2I DSA Sheet</h1> 
 <div align="center">
   
 ![L2I_logo (3)](https://github.com/sheelganvir/L2I-Community/assets/128175450/8e0fe7ea-8fe7-474e-80de-b21c92daec9c)
