@@ -39,6 +39,11 @@
     * [Next Permutation](https://leetcode.com/problems/next-permutation/description/)
 
 * ### Day 2 (Array and Sortings)
+    * [Missing number](https://leetcode.com/problems/missing-number/description/)
+    * [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)
+    * [Single Number](https://leetcode.com/problems/single-number/description/)
+    * [Rotate Array](https://leetcode.com/problems/rotate-array/description/)
+    * [Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/description/)
 
 <br>
 <br>
