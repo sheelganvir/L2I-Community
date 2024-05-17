@@ -49,6 +49,7 @@
     * [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
     * [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)
     * [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
+    * [Two Sum](https://leetcode.com/problems/two-sum/description/)
     * [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)
     * [Rotate Image](https://leetcode.com/problems/rotate-image/description/)
 
