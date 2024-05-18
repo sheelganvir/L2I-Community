@@ -32,7 +32,7 @@
 <br>
 
 * ### Day 1 (Array and Sortings)
-    * [Check if Array Is Sorted and Rotated](https://external.ink?to=leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)
+    * [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)
     * [Remove duplicates from Sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
     * [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
     * [Sort Colors](https://leetcode.com/problems/sort-colors/description/)
