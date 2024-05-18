@@ -53,6 +53,14 @@
     * [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)
     * [Rotate Image](https://leetcode.com/problems/rotate-image/description/)
 
+* ### Day 4 (Array and Sortings)
+    * [Majority Element ](https://leetcode.com/problems/majority-element/description/)
+    * [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
+    * [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
+    * [3Sum](https://leetcode.com/problems/3sum/description/)
+    * [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/)
+    * [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)
+
 <br>
 <br>
 
