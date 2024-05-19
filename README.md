@@ -61,6 +61,14 @@
     * [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/)
     * [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)
 
+* ### Day 5 (Strings and Binary Search)
+    * [Binary Search](https://leetcode.com/problems/binary-search/description/)
+    * [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
+    * [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
+    * [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/)
+    * [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/description/)
+    * [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/)
+
 <br>
 <br>
 
