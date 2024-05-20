@@ -68,6 +68,13 @@
     * [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/)
     * [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/description/)
     * [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/)
+ 
+* ### Day 6 (Strings and Binary Search)
+    * [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
+    * [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
+    * [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+    * [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
+   
 
 <br>
 <br>
