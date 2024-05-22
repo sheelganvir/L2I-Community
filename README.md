@@ -74,6 +74,13 @@
     * [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
     * [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
     * [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
+
+* ### Day 7 (Strings and Binary Search)
+    * [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/description/)
+    * [Valid Anagram ](https://leetcode.com/problems/valid-anagram/description/)
+    * [Find Minimum in Rotated Sorted Array ](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
+    * [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
+    * [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)
    
 
 <br>
