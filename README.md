@@ -79,8 +79,15 @@
     * [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/description/)
     * [Valid Anagram ](https://leetcode.com/problems/valid-anagram/description/)
     * [Find Minimum in Rotated Sorted Array ](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
-    * [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
+    * [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
     * [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)
+ 
+* ### Day 8 (Strings and Binary Search)
+    * [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/description/)
+    * [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)
+    * [Find the Smallest Divisor Given a Threshold ](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/description/)
+    * [Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)
+    * [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)
    
 
 <br>
