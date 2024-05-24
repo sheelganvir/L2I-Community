@@ -88,6 +88,14 @@
     * [Find the Smallest Divisor Given a Threshold ](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/description/)
     * [Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)
     * [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)
+
+* ### Day 9 (Strings and Binary Search)
+    * [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)
+    * [Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/description/)
+    * [Search a 2D Matrix II ](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)
+    * [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/)
+    * [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/)
+    * [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
    
 
 <br>
