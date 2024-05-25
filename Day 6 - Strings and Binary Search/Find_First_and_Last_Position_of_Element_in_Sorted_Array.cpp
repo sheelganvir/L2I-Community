@@ -18,3 +18,17 @@ vector<int> searchRange(vector<int>& nums, int target) {
 
 }
 //  T.C.=O(n)     S.C.=O(1)
+
+vector<int> searchRange(vector<int>& arr, int target) {
+    int n = arr.size();
+    int i = lower_bound(arr.begin(),arr.end(),target) - arr.begin();
+    int j = upper_bound(arr.begin(),arr.end(),target) - arr.begin();
+
+    if(i == n || arr[i] != target){
+        return {-1,-1};
+    }
+    return {i,j-1};
+}
+
+//   T.C.= O(log n) because it uses binary search to find the lower and upper bounds of the target element in the sorted array
+//   S.C.= O(1)
