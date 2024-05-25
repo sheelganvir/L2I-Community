@@ -32,3 +32,44 @@ vector<int> searchRange(vector<int>& arr, int target) {
 
 //   T.C.= O(log n) because it uses binary search to find the lower and upper bounds of the target element in the sorted array
 //   S.C.= O(1)
+
+
+//****** Detailed implementation of upper and lower bound *******
+vector<int> searchRange(vector<int>& nums, int target) {
+    int n = nums.size();
+    int low = 0;
+    int high = n-1;
+    int first = -1, last = -1;
+
+    while(low <= high){
+        int mid = (low+high)/2;
+        if(nums[mid] == target){
+            first = mid;
+            high = mid-1;
+        }else if(nums[mid] > target){
+            high = mid-1;
+        }else{
+            low = mid+1;
+        }
+    }
+
+    low = 0, high = n-1;
+    while(low <= high){
+        int mid = (low+high)/2;
+        if(nums[mid] == target){
+            last = mid;
+            low = mid+1;
+        }else if(nums[mid] > target){
+            high = mid-1;
+        }else{
+            low = mid+1;
+        }
+    }
+
+    if(first == -1){
+        return {-1,-1};
+    }
+
+    return {first,last};
+        
+}
