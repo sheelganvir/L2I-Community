@@ -96,6 +96,14 @@
     * [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/)
     * [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/)
     * [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
+
+* ### Day 10 (Linked list and Recursion)
+    * [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
+    * [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)
+    * [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)
+    * [Pow(x, n)](https://leetcode.com/problems/powx-n/description/)
+    * [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)
+    * [Delete the Middle Node of a Linked List ](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)
    
 
 <br>
