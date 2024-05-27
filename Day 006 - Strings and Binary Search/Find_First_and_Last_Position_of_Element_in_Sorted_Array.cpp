@@ -34,7 +34,7 @@ vector<int> searchRange(vector<int>& arr, int target) {
 //   S.C.= O(1)
 
 
-//****** Detailed implementation of upper and lower bound *******
+//****** Detailed implementation of upper and lower bound *******//
 vector<int> searchRange(vector<int>& nums, int target) {
     int n = nums.size();
     int low = 0;
