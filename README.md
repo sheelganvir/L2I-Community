@@ -120,6 +120,14 @@
     * [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)
     * [Remove Nth Node From End of List ](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
     * [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
+
+* ### Day 13 (Linked list and Recursion)
+    * [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
+    * [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)
+    * [Sort List](https://leetcode.com/problems/sort-list/description/)
+    * [Rotate List ](https://leetcode.com/problems/rotate-list/description/)
+    * [Remove Duplicates from Sorted List II ](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)
+    * [Merge k Sorted Lists ](https://leetcode.com/problems/merge-k-sorted-lists/description/)
    
 
 <br>
