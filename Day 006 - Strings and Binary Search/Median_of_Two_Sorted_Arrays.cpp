@@ -1,50 +1,55 @@
-// The brute force approach for this question will be creating an array and merge the given arrays into it in sorted array.
-// After this choose the element at n/2  position and return it if n is odd & if n is even return ( ele(n/2) + ele(n/2 - 1) )/2.
-// T.C.=O(n1+n2)   S.C.= O(n1+n2)
+// T.C.= O(log(min(n1, n2))), where n1 and n2 are the sizes of the two input arrays. This is because we are performing binary search on the smaller array to find the correct partition point, and the binary search reduces the search space by half in each iteration.
+// S.C.= O(1)
+
 
 
 //**************** Better Approach ***************
-double findMedianSortedArrays(vector<int>& a, vector<int>& b) {
-    int n1 = a.size(), n2 = b.size();
-    int n = n1+n2;
-    int i = 0;
-    int j = 0;
-    int cnt = 0;
-    int idx2 = n/2;
-    int idx1 = n/2 - 1;
-    int idx1ele = -1, idx2ele = -1;
-    while(i < n1 && j < n2){
-        if(a[i] < b[j]){
-            if(cnt == idx1) idx1ele = a[i];
-            if(cnt == idx2) idx2ele = a[i];
-            i++;
-            cnt++;
-        }else{
-            if(cnt == idx1) idx1ele = b[j];
-            if(cnt == idx2) idx2ele = b[j];
-            j++;
-            cnt++;
+class Solution {
+public:
+    double findMedianSortedArrays(vector<int> &nums1, vector<int> &nums2) {
+        int n1 = nums1.size(), n2 = nums2.size();
+        
+        // Ensure nums1 is the smaller array for simplicity
+        if (n1 > n2)
+            return findMedianSortedArrays(nums2, nums1);
+        
+        int n = n1 + n2;
+        int left = (n1 + n2 + 1) / 2; // Calculate the left partition size
+        int low = 0, high = n1;
+        
+        while (low <= high) {
+            int mid1 = (low + high) >> 1; // Calculate mid index for nums1
+            int mid2 = left - mid1; // Calculate mid index for nums2
+            
+            int l1 = INT_MIN, l2 = INT_MIN, r1 = INT_MAX, r2 = INT_MAX;
+            
+            // Determine values of l1, l2, r1, and r2
+            if (mid1 < n1)
+                r1 = nums1[mid1];
+            if (mid2 < n2)
+                r2 = nums2[mid2];
+            if (mid1 - 1 >= 0)
+                l1 = nums1[mid1 - 1];
+            if (mid2 - 1 >= 0)
+                l2 = nums2[mid2 - 1];
+            
+            if (l1 <= r2 && l2 <= r1) {
+                // The partition is correct, we found the median
+                if (n % 2 == 1)
+                    return max(l1, l2);
+                else
+                    return ((double)(max(l1, l2) + min(r1, r2))) / 2.0;
+            }
+            else if (l1 > r2) {
+                // Move towards the left side of nums1
+                high = mid1 - 1;
+            }
+            else {
+                // Move towards the right side of nums1
+                low = mid1 + 1;
+            }
         }
+        
+        return 0; // If the code reaches here, the input arrays were not sorted.
     }
-
-    while(i < n1){
-        if(cnt == idx1) idx1ele = a[i];
-        if(cnt == idx2) idx2ele = a[i];
-        cnt++;
-        i++;
-    }
-    while(j < n2){
-        if(cnt == idx1) idx1ele = b[j];
-        if(cnt == idx2) idx2ele = b[j];
-        cnt++;
-        j++;
-    }
-
-    if(n%2 == 1){
-        return idx2ele;
-    }
-
-    return (double)((double)(idx1ele + idx2ele)/2);
-
-}
-//  T.C.=O(n1+n2)   S.C.= O(1)
+};
