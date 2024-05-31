@@ -140,6 +140,13 @@
 * ### Day 15 (Stacks and Queues)
     * [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)
     * [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/)
+
+* ### Day 16 (Stacks and Queues)
+    * [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/)
+    * [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
+    * [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)
+    * [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/description/)
+    * [Min Stack](https://leetcode.com/problems/min-stack/description/)
    
 
 <br>
