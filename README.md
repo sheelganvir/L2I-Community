@@ -147,6 +147,13 @@
     * [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)
     * [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/description/)
     * [Min Stack](https://leetcode.com/problems/min-stack/description/)
+
+* ### Day 17 (Stacks and Queues)
+    * [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
+    * [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/)
+    * [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description/)
+    * [Decode String](https://leetcode.com/problems/decode-string/description/)
+    * [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/)
    
 
 <br>
