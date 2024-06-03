@@ -154,6 +154,13 @@
     * [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description/)
     * [Decode String](https://leetcode.com/problems/decode-string/description/)
     * [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/)
+ 
+* ### Day 18 (Stacks and Queues)
+    * [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/description/)
+    * [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)
+    * [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/)
+    * [Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/)
+    * [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
    
 
 <br>
