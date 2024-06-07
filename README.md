@@ -173,10 +173,18 @@
 * ### Day 20 (Stacks and Queues)
     * [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/)
     * [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/)
-    * [Maximum Nesting Depth of Two Valid Parentheses Strings]([https://leetcode.com/problems/validate-stack-sequences/description/](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/description/))
+    * [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/description/)
     * [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/description/)
     * [Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/description/)
     * [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/)
+
+* ### Day 21 (Set and HashMap)
+    * [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)
+    * [Set Mismatch](https://leetcode.com/problems/set-mismatch/description/)
+    * [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/description/)
+    * [Subarray Sum Equals K (unordered_map) ](https://leetcode.com/problems/subarray-sum-equals-k/description/)
+    * [Rabbits in Forest ](https://leetcode.com/problems/rabbits-in-forest/description/)
+    * [Decode the Message](https://leetcode.com/problems/decode-the-message/description/)
    
 
 <br>
