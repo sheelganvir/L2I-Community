@@ -101,7 +101,7 @@ string decodedString(string s){
 
 /************************************************ Third Approach *********************************************************
  
-    T.C. : O(n), where n is the length of the input string s. 
+    T.C. : O(n), where n is the length of the input string s.
 
     S.C.: O(n), This is because the stack can potentially store all characters of the input string, 
             leading to linear space usage.
